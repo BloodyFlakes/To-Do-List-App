@@ -101,23 +101,4 @@ ul li span:hover {
   button {
     padding: 12px 20px;
   }
-  .todo-app {
-  margin: 100px auto 20px;
-  padding: 40px 10px 70px;
-}
-}
-@media (max-width: 360px) {
-  button {
-    padding: 12px 8px;
-  }
-  .row {
-    padding-left: 10px;
-  }
-  input {
-    padding: 3px;
-  }
-    .todo-app {
-  margin: 100px auto 20px;
-  padding: 40px 10px 70px;
-}
 }
